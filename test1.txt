@@ -1,2 +1,4 @@
 This is the first entry in test1.txt
 Second entry in master.
+New chnge in test1.txt from b1.
+New chnge in test1.txt from master.
